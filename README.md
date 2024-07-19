@@ -42,7 +42,7 @@ avalanche network stop
 ## Authors
 
 * Srivarenya Thuluva
-* @onlysrivarenya123
+* srivarenyat@gmail.com
 ## License
 
 This project is licensed under the MIT License
